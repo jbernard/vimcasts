@@ -1,6 +1,6 @@
 ## Vimcasts
 
-A git annex repository of Vimcast episodes.
+A git annex repository of [Vimcast](http://vimcasts.org) episodes.
 
 This allows you to selectively fetch and store locally any episodes you wish to
 view or use as a reference.  I find myself doing this often, especially for the
